@@ -1,1 +1,1 @@
-This are projects exploring the Argc and Argv parameters
+These are projects exploring the Argc and Argv parameters
