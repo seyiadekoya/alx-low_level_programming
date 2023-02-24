@@ -1,1 +1,1 @@
-Debugging: The art of checking for errors in the code
+Debugging: The meticulous of checking for errors in the code
