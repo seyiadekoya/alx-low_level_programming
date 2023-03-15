@@ -1,1 +1,1 @@
-This are tasks that explore the malloc, realloc & calloc functionalities
+This repository contains projects that explore the malloc, realloc & calloc functionalities in C.
