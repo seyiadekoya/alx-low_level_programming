@@ -1,1 +1,1 @@
-This project contains tasks done exploring the C-Prepocessor
+This project contains tasks done exploring the C-Prepocessor concept.
