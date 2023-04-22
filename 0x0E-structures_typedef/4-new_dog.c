@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "dog.h"
-#include "main.h"
 /**
  * new_dog - This function creates a struct & copies the name & owner members
  * @name: struct variable that is passed.
